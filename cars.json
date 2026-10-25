@@ -1,0 +1,12 @@
+ [
+  {"name": "Civic", "brand": "Honda"},
+  {"name": "Corolla", "brand": "Toyota"},
+  {"name": "X5", "brand": "BMW"},
+  {"name": "Mustang", "brand": "Ford"},
+  {"name": "C-Class", "brand": "Mercedes"},
+  {"name": "A4", "brand": "Audi"},
+  {"name": "Model 3", "brand": "Tesla"},
+  {"name": "Altima", "brand": "Nissan"},
+  {"name": "Creta", "brand": "Hyundai"},
+  {"name": "Swift", "brand": "Suzuki"}
+]
